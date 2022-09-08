@@ -1,26 +1,39 @@
-# Phase 1 Project Guidelines
+Phase 1 Project Guidelines
+
+## Kikwetu Dishes
+
+Project Author: This project was developed by Luke Kazungu.
 
 ## Learning Goals
 
-- Design and architect features across a frontend
-- Communicate and collaborate in a technical environment
-- Integrate JavaScript and an external API
-- Debug issues in small- to medium-sized projects
-- Build and iterate on a project MVP
+## Project Description
+
+Kikwetu Dishes is a local website whose primary goal is to enable a person order food with their phones, at the comfort of their homes or spaces. The customer can have the look and feel of their favorite coastal meals and add them to their cart. They can then proceed to place an order.
+
+## Purpose
+
+As a prerequisite to mark the end of Phase 1 for our Software Engineering Course, each student is required to develop a website, to put to test the knowledge and skills they acquired- on HTML, CSS, JavaScript, JSON -through out the phase. It was an individual project.
 
 ## Introduction
 
-Welcome to JavaScript Project Mode!
+## Contributors
 
-You’ve worked so hard to get here and have learned a ton. Now it's time to bring
-it all together!
+It was quite an exciting experience to build something from scratch on my own.
+
+## How to Run
+
+> First things first, download this repository to be able to have a look at the code files, to be able to understand how it works.
+> Git fork, clone, then run $ Code . to open VisualStudio Code. The project files will automatically load. You are good to go.
+> You can Go Live, to have a visual representation of the website.
+
+### Project Requirements
+
+If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
 
 For this project, you're going build a Single Page Application (**SPA**).
 Building this application will be challenging because it will integrate
 everything you've learned up to this point. Your frontend will be built with
 HTML, CSS, and JavaScript and will communicate with a public API.
-
-### Project Requirements
 
 1. Your app must be a HTML/CSS/JS frontend that accesses data from a public API.
    All interactions between the client and the API should be handled
@@ -114,9 +127,8 @@ manageable.
 
 > **Note**: Using `json-server` is a stretch goal, so make sure you have a
 > working MVP before trying to set up `json-server`!
-
-You can use this [json-server template][] to generate your backend code. Using
-this template will make it easier to deploy your backend later on.
+> You can use this [json-server template][] to generate your backend code. Using
+> this template will make it easier to deploy your backend later on.
 
 [json-server template]: https://github.com/learn-co-curriculum/json-server-template
 
@@ -170,3 +182,7 @@ You can consult the [json-server docs][] for more information.
 - [json-server][]
 
 [json-server]: https://www.npmjs.com/package/json-server
+
+## License
+
+MIT Copyright (c) 2022-present, Luke Kazungu Karisa Email: kazungu.luke@gmail.com
